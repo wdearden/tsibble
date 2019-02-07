@@ -84,6 +84,7 @@ Collate:
     'index-valid.R'
     'interval.R'
     'key-group.R'
+    'na.R'
     'new-data.R'
     'period.R'
     'reexports.R'
